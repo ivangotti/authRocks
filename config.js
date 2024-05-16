@@ -11,7 +11,7 @@ const config = {
 		domain: 'idmotors-external.cic-demo-platform.auth0app.com',
 		clientId: 'vT7oTuKOlHLCnWzwfIiSLKF35kDEMC6F',
 		// UNCOMMENT the following line to test the private API
-		// audience: ['api://authrocks/'],
+		audience: ['api://authrocks/'],
 	},
 	app: {
 		enableSilentAuth: false,
